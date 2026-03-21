@@ -1,0 +1,45 @@
+site_name: 4k_QiMinYaoShu
+site_url: https://electrowind.github.io/4kqmys
+
+theme:
+  language: 'zh'
+  name: material
+  palette:
+    scheme: nthing
+    primary: white
+    accent: green
+
+  features:
+    - search.highlight
+    - navigation.instant
+    - navigation.tabs
+    # - navigation.footer
+    - content.action.edit
+    - content.action.view
+
+repo_url: https://github.com/electrowind/4kqmys
+repo_name: electrowind/4kqmys
+
+plugins:
+  - search
+
+  # - git-committers:
+  #     repository: electrowind/4kqmys
+  #     branch: main
+
+markdown_extensions:
+   - pymdownx.arithmatex:
+       generic: true
+   - pymdownx.betterem
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home:
+    - 前言: index.md
+  - 基本常识: common.md
+  - 键型:
+    - Index: pattern/index.md
+    - 排列: pattern/pailie.md
+    - 常规: pattern/rice.md
