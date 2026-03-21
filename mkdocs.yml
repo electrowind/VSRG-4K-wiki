@@ -1,5 +1,5 @@
 site_name: 4k_QiMinYaoShu
-site_url: https://electrowind.github.io/4kqmys
+site_url: https://electrowind.github.io/VSRG-4K-wiki
 
 theme:
   language: 'zh'
@@ -17,14 +17,14 @@ theme:
     - content.action.edit
     - content.action.view
 
-repo_url: https://github.com/electrowind/4kqmys
-repo_name: electrowind/4kqmys
+repo_url: https://github.com/electrowind/VSRG-4K-wiki
+repo_name: electrowind/VSRG-4K-wiki
 
 plugins:
   - search
 
   # - git-committers:
-  #     repository: electrowind/4kqmys
+  #     repository: electrowind/VSRG-4K-wiki
   #     branch: main
 
 markdown_extensions:

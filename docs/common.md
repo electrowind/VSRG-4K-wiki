@@ -14,8 +14,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/1637455#mania/3341776"><img src="/4kqmys/images/1-1RC.png" width="250" alt="Rice" ></a></td>
-<td><a href="https://osu.ppy.sh/beatmapsets/1505323#mania/3083481"><img src="/4kqmys/images/1-2LN.png" width="250" alt="Long Note"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1637455#mania/3341776"><img src="/VSRG-4K-wiki/images/1-1RC.png" width="250" alt="Rice" ></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1505323#mania/3083481"><img src="/VSRG-4K-wiki/images/1-2LN.png" width="250" alt="Long Note"></a></td>
 </tr></table>
 <figcaption>图 1-1（左） 米(The Blue Sanctuary[The Cradle of the Sky] by Blessia)<br />
 图 1-2（右） 面(ΩΩPARTS[Antikythera] by -mint-)</figcaption>
@@ -28,8 +28,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/1033736#mania/2161378"><img src="/4kqmys/images/1-3chord.png" width="250" alt="Chord" ></a></td>
-<td><img src="/4kqmys/images/1-4ddr.png" width="500" alt="DDR"></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1033736#mania/2161378"><img src="/VSRG-4K-wiki/images/1-3chord.png" width="250" alt="Chord" ></a></td>
+<td><img src="/VSRG-4K-wiki/images/1-4ddr.png" width="500" alt="DDR"></td>
 </tr></table>
 <figcaption>图 1-3（左） 押(GOODTEK[JACKTEK (Edit.) [Epsilon Jack]] by Signicial)<br />
 图 1-4（右） Dance Dance Revolution</figcaption>
@@ -47,7 +47,7 @@
 
 <figure>
 <table><tr>
-<td><img src="/4kqmys/images/1-5.png" alt="map"></td>
+<td><img src="/VSRG-4K-wiki/images/1-5.png" alt="map"></td>
 </tr></table>
 <figcaption>图 1-5 谱面的组成</figcaption>
 </figure>

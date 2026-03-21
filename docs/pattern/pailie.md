@@ -6,7 +6,7 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/174381#mania/421066"><img src="/4kqmys/images/2-1minijack.png" width="250" alt="minijack"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/174381#mania/421066"><img src="/VSRG-4K-wiki/images/2-1minijack.png" width="250" alt="minijack"></a></td>
 </tr></table>
 <figcaption>图 2-1<sup>*</sup> 子弹(AiAe[SHD] by Wafles)</figcaption>
 </figure>
@@ -26,8 +26,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/1347618#mania/3948145"><img src="/4kqmys/images/2-2anchor.png" width="250" alt="anchor"></a></td>
-<td><a href="https://osu.ppy.sh/beatmapsets/905211#mania/1889332"><img src="/4kqmys/images/2-3longjack.png" width="250" alt="longjack"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1347618#mania/3948145"><img src="/VSRG-4K-wiki/images/2-2anchor.png" width="250" alt="anchor"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/905211#mania/1889332"><img src="/VSRG-4K-wiki/images/2-3longjack.png" width="250" alt="longjack"></a></td>
 </tr></table>
 <figcaption>图 2-2（左） 锚(世音[Distress] by Halogen-)<br />图 2-3（右） 纵(CG901B[Impossible] by Rachel)</figcaption>
 </figure>
@@ -38,7 +38,7 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/1527020#mania/3123873"><img src="/4kqmys/images/2-4roll.png" width="250" alt="roll"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1527020#mania/3123873"><img src="/VSRG-4K-wiki/images/2-4roll.png" width="250" alt="roll"></a></td>
 </tr></table>
 <figcaption>图 2-4 roll(FUTURE DOMINATORS[NB5 Hard 54235] by IcyWorld)</figcaption>
 </figure>
@@ -51,8 +51,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/1627071#mania/3321840"><img src="/4kqmys/images/2-5rail.png" width="280" alt="rail"></a></td>
-<td><a href="https://osu.ppy.sh/beatmapsets/203250#mania/480466"><img src="/4kqmys/images/2-6staircase.png" width="280" alt="staircase"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1627071#mania/3321840"><img src="/VSRG-4K-wiki/images/2-5rail.png" width="280" alt="rail"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/203250#mania/480466"><img src="/VSRG-4K-wiki/images/2-6staircase.png" width="280" alt="staircase"></a></td>
 </tr></table>
 <figcaption>图 2-5 （左） 梯子(Yozakura[999] by ska)<br />图 2-6 （右） 钩子(Rave 7[Hard] by hi19hi19)</figcaption>
 </figure>
@@ -68,8 +68,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/1802731#mania/3696651"><img src="/4kqmys/images/2-7onetrill.png" width="250" alt="one-hand-trill"></a></td>
-<td><a href="https://osu.ppy.sh/beatmapsets/1516907#mania/3672145"><img src="/4kqmys/images/2-8twotrill.png" width="250" alt="two-hand-trill"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1802731#mania/3696651"><img src="/VSRG-4K-wiki/images/2-7onetrill.png" width="250" alt="one-hand-trill"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1516907#mania/3672145"><img src="/VSRG-4K-wiki/images/2-8twotrill.png" width="250" alt="two-hand-trill"></a></td>
 </tr></table>
 <figcaption>图 2-7（左） 单手交互(Aura[Hard(dance-single)] by IcyWorld)<br />图 2-8（右） 双手交互(GHOUL[Spritual Disaster] by Yokkako)</figcaption>
 </figure>
@@ -81,8 +81,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/644943#mania/1366733"><img src="/4kqmys/images/2-9jumptrill.png" width="250" alt="jumptrill"></a></td>
-<td><a href="https://osu.ppy.sh/beatmapsets/827679#mania/1938170"><img src="/4kqmys/images/2-10splittrill.png" width="250" alt="splittrill"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/644943#mania/1366733"><img src="/VSRG-4K-wiki/images/2-9jumptrill.png" width="250" alt="jumptrill"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/827679#mania/1938170"><img src="/VSRG-4K-wiki/images/2-10splittrill.png" width="250" alt="splittrill"></a></td>
 </tr></table>
 <figcaption>图 2-9（左） 对拍(Lolit Speed[Marathon] by IcyWorld)<br />图 2-10（右） 对切(Cyber Inductance (Speed Up Ver.)[NB4] by IcyWorld)</figcaption>
 </figure>
@@ -95,8 +95,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/687947#mania/1455976"><img src="/4kqmys/images/2-11splitrail.png" width="250" alt="split-rail"></a></td>
-<td><a href="https://osu.ppy.sh/beatmapsets/1899796#mania/3915896"><img src="/4kqmys/images/2-12grace.png" width="250" alt="grace"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/687947#mania/1455976"><img src="/VSRG-4K-wiki/images/2-11splitrail.png" width="250" alt="split-rail"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/1899796#mania/3915896"><img src="/VSRG-4K-wiki/images/2-12grace.png" width="250" alt="grace"></a></td>
 </tr></table>
 <figcaption>图 2-11（左） 散点(Moon Gate[Challenge] by ATTang)<br />图 2-12（右） grace(Playing with Ruby[blite] by Ska)</figcaption>
 </figure>
@@ -113,8 +113,8 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/2069235#mania/4376982"><img src="/4kqmys/images/2-13shield.png" width="250" alt="shield"></a></td>
-<td><a href="https://osu.ppy.sh/beatmapsets/893066#mania/2197981"><img src="/4kqmys/images/2-14burst.png" width="250" alt="burst"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/2069235#mania/4376982"><img src="/VSRG-4K-wiki/images/2-13shield.png" width="250" alt="shield"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/893066#mania/2197981"><img src="/VSRG-4K-wiki/images/2-14burst.png" width="250" alt="burst"></a></td>
 </tr></table>
 <figcaption>图 2-13（左） 盾和反盾(Everlasting Eternity[Majestic Presence] by uL-)<br />图 2-14 （右） 爆发(Over the Fullereneshift[Komm, susser Tod] by Shoegazer &Fullerene)</figcaption>
 </figure>
@@ -132,7 +132,7 @@
 
 <figure>
 <table><tr>
-<td><a href="https://osu.ppy.sh/beatmapsets/491959#mania/1052579"><img src="/4kqmys/images/2-15noodleandsnack.png" width="250" alt="noodle&snack"></a></td>
+<td><a href="https://osu.ppy.sh/beatmapsets/491959#mania/1052579"><img src="/VSRG-4K-wiki/images/2-15noodleandsnack.png" width="250" alt="noodle&snack"></a></td>
 </tr></table>
 <figcaption>图 2-15 面点(Celestial stinger[Celestial Chicken's GRAVITY] by Fresh Chicken)</figcaption>
 </figure>

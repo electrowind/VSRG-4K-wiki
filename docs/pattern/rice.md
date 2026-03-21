@@ -7,7 +7,7 @@
 &emsp;&emsp;重灾区其一，大中小叠键之间没有明确区分，这个问题本质是沙堆悖论，轻切和乱、LN，HB 和 RC 的区分也同理，无法给出一个度量来区分这些键型。
 <figure>
 <table><tr>
-<td><a href="https://baike.baidu.com/item/%E6%B2%99%E5%A0%86%E6%82%96%E8%AE%BA?fromModule=lemma_search-box"><img src="/4kqmys/images/2-16soritesparadox.png" alt="sorites-paradox"></a></td>
+<td><a href="https://baike.baidu.com/item/%E6%B2%99%E5%A0%86%E6%82%96%E8%AE%BA?fromModule=lemma_search-box"><img src="/VSRG-4K-wiki/images/2-16soritesparadox.png" alt="sorites-paradox"></a></td>
 </tr></table>
 <figcaption>图 2-16 沙堆悖论<sup>*</sup></figcaption>
 </figure>
