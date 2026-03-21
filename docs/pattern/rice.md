@@ -81,7 +81,7 @@
 ### 1.10 三押叠 / handjack / triple jack
 &emsp;&emsp;全是三押的叠。
 ### 1.11 四押叠 / 四押纵 / quadjack
-&emsp;&emsp;全是四押的叠。
+&emsp;&emsp;全是四押的叠。<br />
 &emsp;&emsp;一般放在其他键型的衔接处。
 <figure>
 <table><tr>
@@ -93,8 +93,8 @@
 </figure>
 
 ## 2. 乱键 / 乱 / 大乱 / stream / speed / dumpstream
-&emsp;&emsp;相邻行之间不存在重叠的谱面，含有极少量或不含双押和三押。
-&emsp;&emsp;常见分度为 32 分。
-&emsp;&emsp;脚排列、古典排列、现代排列由锚键的多少区分，其中脚排列＞现代排列＞古典排列。
+&emsp;&emsp;相邻行之间不存在重叠的谱面，含有极少量或不含双押和三押。<br />
+&emsp;&emsp;常见分度为 32 分。<br />
+&emsp;&emsp;脚排列、古典排列、现代排列由锚键的多少区分，其中脚排列＞现代排列＞古典排列。<br />
 &emsp;&emsp;DDMythical 之后 speed 可代指乱键。
 

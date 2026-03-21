@@ -91,7 +91,7 @@
 &emsp;&emsp;无规律的一组单键。
 
 ## 11. Grace / flam
-&emsp;&emsp;以极小间距排列的一组单键。
+&emsp;&emsp;以**极小间距**排列的一组单键。
 
 <figure>
 <table><tr>
@@ -109,7 +109,7 @@
 &emsp;&emsp;一根较长的面条后紧跟一个单键。
 
 ## 14. Burst / 爆发
-&emsp;&emsp;相比高潮段，更紧凑的排列，且长度非常短。
+&emsp;&emsp;相比高潮段，**更紧凑**的排列，且长度非常短。
 
 <figure>
 <table><tr>
