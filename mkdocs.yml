@@ -43,3 +43,9 @@ nav:
     - Index: pattern/index.md
     - 排列: pattern/pailie.md
     - 常规: pattern/rice.md
+    - 面条: pattern/LN.md
+    - Vibro: pattern/vibro.md
+    - 变速: pattern/SV.md
+  - 写谱: mapping.md
+  - 难度体系:
+    - 段位: difficulty-rate/dan.md

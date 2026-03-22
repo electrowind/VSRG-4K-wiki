@@ -1,7 +1,4 @@
----
-authors: 
-    - Inumeyugan
----
+
 
 ![title](./images/title.png)
 
