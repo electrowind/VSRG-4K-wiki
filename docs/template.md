@@ -1,6 +1,6 @@
 <figure>
 <table><tr>
-<td><a href=" "><img src="/VSRG-4k-wiki/images/" alt=" "></a></td>
+<td><a href=" "><img src="/VSRG-4K-wiki/images/" alt=" "></a></td>
 
 </tr></table>
 <figcaption> </figcaption>
