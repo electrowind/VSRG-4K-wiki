@@ -10,3 +10,11 @@
 <div style="text-align: right;color: lightgray;"><i> </i></div>
 
 &emsp;&emsp;
+
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/" alt=" "></td>
+
+</tr></table>
+<figcaption> </figcaption>
+</figure>

@@ -49,3 +49,5 @@ nav:
   - 写谱: mapping.md
   - 难度体系:
     - 段位: difficulty-rate/dan.md
+    - 星数: difficulty-rate/starrate.md
+    - 不同体系的转换: difficulty-rate/conversation.md

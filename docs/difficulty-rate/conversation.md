@@ -3,17 +3,20 @@
 ### 1.1 Sunny rework
 &emsp;&emsp;如有 rework SR 与实际不同，可能是 rework 算法或谱面更新了。
 
+
+4K
+
 | Dan | Rework SR | Dan | Rework SR | 
 |:-----:|:---:|:-----:|:---:|
 | reform intro 1 | 1.825 | extra final v2| 9.987 | 
 reform intro 2| 2.472 |Shoegazer 1 v1 |3.807
 reform intro 3 |2.767 |Shoegazer 2 v1| 4.224
 reform 1 |3.307 |Shoegazer 3 v1| 4.368
-reform 2 |3.698 |Shoegazer 4 |v1 5.13
-reform 3| 3.73 |Shoegazer 5 |v1 4.998
-reform 4 |4.53 |Shoegazer 6 |v1 5.544
-reform 5| 4.922| Shoegazer 7 |v1 5.794
-reform 6| 5.423 |Shoegazer 8| v1 6.107
+reform 2 |3.698 |Shoegazer 4 v1| 5.13
+reform 3| 3.73 |Shoegazer 5 v1| 4.998
+reform 4 |4.53 |Shoegazer 6 v1| 5.544
+reform 5| 4.922| Shoegazer 7 v1| 5.794
+reform 6| 5.423 |Shoegazer 8 v1| 6.107
 reform 7 |5.6 |Shoegazer 9 v1| 5.963
 reform 8 |6.059| Shoegazer 10 v1 |6.609
 reform 9 |6.161 |Shoegazer luminal v1 |6.99
@@ -78,10 +81,52 @@ extra 9 v2 |10.516| xfpsb final |8.686
 <div style="text-align: right;color: lightgray;"><i> <sup>3</sup> 四首分别为 Rose Quartz, Shadows of Cats, Mario Paint, Triumphal Return。</i></div>
 <div style="text-align: right;color: lightgray;"><i> <sup>4</sup> V1.75 是民间称谓，官方的 v1.75 和 v2 名称完全相同；osu 官网搜索 extra dan 9 v1.75 即可。</i></div>
 <div style="text-align: right;color: lightgray;"><i><sup>5</sup> 附录 2 段位难度天梯表。 </i></div>
+---
 
+7K
 
+| Dan | Rework SR | Dan | Rework SR | 
+|:-----:|:---:|:-----:|:---:|
+regular 0 |3.895 |wild 2 |8.775
+regular 1 |4.668 |wild 3 |8.927
+regular 2 |5.19 |regular azimuth |9.221
+regular 3 |5.669 |wild 4 |9.257
+regular 4| 5.906 |regular zenith |9.932
+regular 5| 6.159 |wild 5 |9.66
+regular 6| 6.745 |wild 6 |9.969
+regular 7| 7.067 |wild 7 |10.252
+regular 8| 7.482 |regular stellium |10.34
+regular 9| 7.758 |wild 8 |10.658
+regular 10| 8.312 |wild 9 |10.973
+wild 1 |8.477| |
+|||
+LN 0 |4.308 |LN 8 |7.429
+LN 1 |4.844 |LN 9 |7.716
+LN 2 |4.828 |LN 10 |8.418
+LN 3 |5.5 |LN gamma |8.793
+LN 4 |5.756 |LN azimuth |9.263
+LN 5 |6.348 |LN zenith |9.836
+LN 6 |6.922 |LN stellium |10.527
+LN 7 |6.958| |
+<div style="text-align: left";>表 2-2 Sunny Rework 7K 段位难度对照表 </div><br />
 
+&emsp;&emsp;段位名后加“+”和“-”表示高于或低于该段位一点的难度，如 e9+，t3+，ln10-等；也有加多个符号来表示远难于或远简单于某段位的难度如 g++，但**不要带太多符号**，容易被认为乱标难度。
 
+### 1.2 4K段位难度排行
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-724kdanranking.png" alt="4KdanRanking"></td>
 
+</tr></table>
+<figcaption> 图 2-72 4k Hard Dan Course Difficulty Ranking</figcaption>
+</figure>
+27 附录 3 有争议的叠图天梯表。
 
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-734kdanrankingv3.png" alt="4Kv3danRanking"></td>
+
+</tr></table>
+<figcaption> 图 2-73 4k Hard Dan NewCourse Difficulty Ranking v3</figcaption>
+</figure>
 
