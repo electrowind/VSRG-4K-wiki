@@ -130,3 +130,74 @@ LN 7 |6.958| |
 <figcaption> 图 2-73 4k Hard Dan NewCourse Difficulty Ranking v3</figcaption>
 </figure>
 
+## 2 判定 / grade
+### 2.1 判定区间 / 打击窗口 / hit window
+
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-73-1hitwindow.png" alt="hit window"></td>
+</tr></table>
+<figcaption>表 2-4 音游的判定区间</figcaption>
+</figure>
+<div style="text-align: right;color: lightgray;"><i><sup>*</sup> 单位均为毫秒 / ms；osu!mania 由于四舍五入导致 v1 所有实际判定区间比理论判定区间宽 0.5ms，这里标注实际判定区间。</i></div>
+
+### 2.2 判定区间常见问题
+Malody 移动端因为设备延迟偏大，判定难度具有一定的补正，较 PC 端相比更为宽松；目前主流说法认为移动端的 BEST 判定具有 4-6ms 的补正，但移动端玩家体感上可能略微会超过或小于这个数值区间。iii
+新版本判定和老版本有区别吗？
+答：过去 Malody 的 PC 版和移动版使用两套不同的判定体系，PC 的判定更难，移动版判定相对较宽松。但考虑到越来越多的移动设备支持外接键盘，部分 PC 也自带触屏。旧版本的设定显得多余。因此 Malody V 在所有平台上，判定默认与旧版本的移动版判定相同，玩家打出的成绩也与旧版本移动端处于同一个榜。而对喜欢挑战的玩家，所有平台均提供一个叫做“Pro Judge”的选项，开启后，判定与旧版 PC 版相同，打出成绩与旧版 PC 处于同一个榜。同时，旧 PC 榜也将改名“Pro 榜”。
+——[Malody 公式娘](https://www.bilibili.com/opus/533171459104676628)
+
+同一张谱在不同判定的难度是不同的，如对于一个 357BPM 的子弹，在OD9 判定下两个 note 均为 100acc 对于手速理想状况<sup>6<sup>的最低要求是
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-74.png"></td>
+
+</tr></table>
+<figcaption> 图 2-74 357BPM 的子弹，其中红色为 osu OD9，绿色为 Malody PC B 判
+</figcaption>
+</figure>
+
+
+$\frac{1000}{357÷60×4}$ +37.5×2≈117.02ms
+
+
+即
+
+
+$\frac{1000}{\frac{1000}{357÷60×4}}$+37.5×2≈8.55KPS
+
+
+在 PC B 判下则为
+
+
+&emsp;&emsp;≈130.02ms<br />
+&emsp;&emsp;≈7.69KPS<br />
+
+
+对于手速要求是完全不同的，其他如第二级判定或其他判定等级同理；大叠或满切，判定对于手速要求影响较小，而小叠和技巧则影响较大。<br />
+<div style="text-align: right;color: lightgray;"><i><sup>6</sup>理想状况下，第一个 note 在 100%判定刚开始时打击，第二个 note 在 100%判定即将结束时打击。
+ </i></div>
+
+下面给出纵连长度与理想状况下最低 KPS 的关系：
+
+
+&emsp;&emsp;**N 次点击最大间隔 = $\frac{1}{N−1} [\frac{7500}{纵连等效 BPM× (N−1)} +100\%判定区间]$**
+
+
+&emsp;&emsp;**N 纵连理想状况下最低 KPS = $\frac{1000}{N 次点击最大间隔}$**
+
+
+不难看出，纵连越长，所需最低 KPS 越大；判定越严，最低 KPS 要求越高、越难糊。
+
+### 2.3Osu score v2 / SV2 / v2 判定
+彩 300 的判定分不再是 320，而是 305。只有彩 300 的准确率才是 100%。300的准确率是 300/305 = 98.36%。200是65.57%，100是32.79%，50是16.39%。
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2.75sv2" alt="ScoreV2"></td>
+
+</tr></table>
+<figcaption>图 2-75 Wiki 对于 SV2 的解释
+ </figcaption>
+</figure>
+
+计算方式见 2.6.2 分数系统 / score。
