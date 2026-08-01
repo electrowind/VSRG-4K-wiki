@@ -17,6 +17,9 @@ theme:
     - content.action.edit
     - content.action.view
 
+  font:
+    text: uuz
+
 repo_url: https://github.com/electrowind/VSRG-4K-wiki
 repo_name: electrowind/VSRG-4K-wiki
 
@@ -55,3 +58,6 @@ nav:
     - 段位: difficulty-rate/dan.md
     - 星数: difficulty-rate/starrate.md
     - 不同体系的转换: difficulty-rate/conversation.md
+
+  - 附录:
+    - 段位下载方式: appendix/appxA.md
