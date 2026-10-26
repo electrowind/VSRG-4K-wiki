@@ -80,7 +80,7 @@ extra 9 v2 |10.516| xfpsb final |8.686
 <div style="text-align: right;color: lightgray;"><i> <sup>2</sup> 四首分别为 Log-in, Nhelv, Cyber Inductance, Speed of Link；也有版本为全曲乘 0.95 倍速。</i></div>
 <div style="text-align: right;color: lightgray;"><i> <sup>3</sup> 四首分别为 Rose Quartz, Shadows of Cats, Mario Paint, Triumphal Return。</i></div>
 <div style="text-align: right;color: lightgray;"><i> <sup>4</sup> V1.75 是民间称谓，官方的 v1.75 和 v2 名称完全相同；osu 官网搜索 extra dan 9 v1.75 即可。</i></div>
-<div style="text-align: right;color: lightgray;"><i><sup>5</sup> 附录 2 段位难度天梯表。 </i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>5</sup> <a href="/VSRG-4K-wiki/appendix/appxB/">附录 2 段位难度天梯表</a>。 </i></div>
 ---
 
 7K
@@ -118,9 +118,9 @@ LN 7 |6.958| |
 <td><img src="/VSRG-4K-wiki/images/2-724kdanranking.png" alt="4KdanRanking"></td>
 
 </tr></table>
-<figcaption> 图 2-72 4k Hard Dan Course Difficulty Ranking</figcaption>
+<figcaption> 图 2-72 4k Hard Dan Course Difficulty Ranking<sup>[27]</sup></figcaption>
 </figure>
-27 附录 3 有争议的叠图天梯表。
+<div style="text-align: right;color: lightgray;"><i><sup>[27]</sup> <a href="/VSRG-4K-wiki/appendix/appxC/">附录 3 有争议的叠图天梯表</a>。</i></div>
 
 <figure>
 <table><tr>
@@ -193,14 +193,14 @@ $\frac{1000}{\frac{1000}{357÷60×4}}$+37.5×2≈8.55KPS
 彩 300 的判定分不再是 320，而是 305。只有彩 300 的准确率才是 100%。300的准确率是 300/305 = 98.36%。200是65.57%，100是32.79%，50是16.39%。
 <figure>
 <table><tr>
-<td><img src="/VSRG-4K-wiki/images/2.75sv2wiki.png" alt="ScoreV2"></td>
+<td><img src="/VSRG-4K-wiki/images/2-75sv2wiki.png" alt="ScoreV2"></td>
 
 </tr></table>
 <figcaption>图 2-75 Wiki 对于 SV2 的解释
  </figcaption>
 </figure>
 
-计算方式见 2.6.2 分数系统 / score。
+计算方式见 [2.6 常见事件及人物 / 分数系统 / score](/VSRG-4K-wiki/history/score/)。
 
 <figure>
 <table><tr>

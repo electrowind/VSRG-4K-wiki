@@ -67,7 +67,7 @@
 &emsp;&emsp;常见四押切是在切键的每拍或每两拍出现一个四押，这一定会导致产生子弹，所以四押切其实是叠。
 ### 1.9 双押叠 / 切叠<sup>[1]</sup> / jumpjack
 &emsp;&emsp;全是双押的叠。
-<div style="text-align: right;color: lightgray;"><i><sup>[1]</sup>有争议，圈内最常见的键型划分图（见附录 3）将 jumpjack 和切叠划等号。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>[1]</sup>有争议，圈内最常见的键型划分图（见<a href="/VSRG-4K-wiki/appendix/appxC/">附录 3</a>）将 jumpjack 和切叠划等号。</i></div>
 <figure>
 <table><tr>
 <td><a href="https://osu.ppy.sh/beatmapsets/174381#mania/421066"><img src="/VSRG-4K-wiki/images/2-23qs.png"  width="250" alt="quadstream"></a></td>

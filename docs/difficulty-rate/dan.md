@@ -8,7 +8,7 @@
 <div style="text-align:right";>——Shoegazer</div><br />
 &emsp;&emsp;段位会不可避免的产生个人差，段位设计的初衷是 XX% acc，不要因为某某谱面打上 97.5%，段位比它低的谱面打了 98%而断定后者更简单，少数情况是因为段位在设计时有问题<sup>[1]</sup>，绝大多数情况下是因为每个谱面打上同一个准度的难度不一样。<div style="text-align: right;color: lightgray;"><i> <sup>[1]</sup>即便是最新的 Malody CN Dan Course v3 段位也会不可避免出现难度不匹配的问题。</i></div>
 &emsp;&emsp;段位的通过条件、详细信息和要求的平台见各小节链接。<br />
-&emsp;&emsp;部分 osu 段位在官网被删除或难以检索，**整理的下载方式**见附录 1。<br />
+&emsp;&emsp;部分 osu 段位在官网被删除或难以检索，**整理的下载方式**见[附录 1 段位下载方式](/VSRG-4K-wiki/appendix/appxA/)。<br />
 &emsp;&emsp;以下仅列举一些常见段位。<br />
 此处不讨论 Malody 的官方定级和 Quaver 的定级。
 
@@ -160,7 +160,7 @@
 
 
 &emsp;&emsp;新面段 15 以后还有非官方段位，见[[人类进化方向] 4K LN Dan Courses 16 - 20
-演示_哔哩哔哩 bilibili_崩坏](https://www.bilibili.com/video/BV1Yvy3BPEd4)，下载链接也在附录 1。
+演示_哔哩哔哩 bilibili_崩坏](https://www.bilibili.com/video/BV1Yvy3BPEd4)，下载链接也在[附录 1](/VSRG-4K-wiki/appendix/appxA/)。
 
 <figure>
 <table><tr>
@@ -213,13 +213,13 @@
 &emsp;&emsp;iron (<50%) 第 562,999 名<br />
 <figure>
 <table><tr>
-<td><img src="/VSRG-4K-wiki/images/2-69officalrank.png" alt="official"></td>
+<td><img src="/VSRG-4K-wiki/images/2-69officialrank.png" alt="official"></td>
 
 </tr></table>
 <figcaption> 图 2-69 官方段位<sup>[7]</sup></figcaption>
 </figure>
 
-<div style="text-align: right;color: lightgray;"><i> <sup>[7]</sup>附录三过时的官方段位数据，还包含其他模式大致排名对应的段位。
+<div style="text-align: right;color: lightgray;"><i> <sup>[7]</sup><a href="/VSRG-4K-wiki/appendix/appxC/">附录 3</a>过时的官方段位数据，还包含其他模式大致排名对应的段位。
 </i></div>
 
 
