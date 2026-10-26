@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mkdocs-font-switch"
+version = "0.1.0"
+description = "给 MkDocs Material 站点加一个页眉正文字体切换控件"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = ["mkdocs>=1.5"]
+
+[project.entry-points."mkdocs.plugins"]
+font-switch = "mkdocs_font_switch.plugin:FontSwitchPlugin"
+
+[tool.setuptools.packages.find]
+where = ["src"]

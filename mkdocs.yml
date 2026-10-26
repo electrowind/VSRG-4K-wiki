@@ -25,6 +25,14 @@ repo_name: electrowind/VSRG-4K-wiki
 
 plugins:
   - search
+  - font-switch:
+      storage_key: vsrg-font
+      fonts:
+        - id: uuz
+          label: 隶
+          title: 隶灵黑
+          src: fonts/uuz.woff2
+          fallback: fonts/uuz.otf
 
   # - git-committers:
   #     repository: electrowind/VSRG-4K-wiki
