@@ -69,3 +69,91 @@ Malody v1，e9v1.75，joker 叠段等段位均可以在前言 Q 群找到。
 &emsp;&emsp;Osu 官网搜索 [Malody dan v2](https://osu.ppy.sh/beatmapsets?m=3&nsfw=1&q=malody%20dan%20v2&s=graveyard) 或 [v3](https://osu.ppy.sh/beatmapsets?m=3&nsfw=1&q=malody%20dan%20v3&s=graveyard) 即可，注意段位本体和单曲以及版本的区别。<br />
 &emsp;&emsp;Extra dan 9 v1.75 在 osu 官网搜索 extra dan 9 v1.75 即可，目前仅有本体。
 
+Malody 在商店搜索 SID 下载对应合集。
+
+<figure>
+<table>
+  <thead>
+    <tr>
+      <th align="center">SID</th>
+      <th align="center">合集类型</th>
+      <th align="center">版本</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr><td>s1000</td><td>发狂段本体合集</td><td rowspan="11";>v2</td></tr>
+<tr><td>s1111</td><td>叠键单曲合集</td></tr>
+<tr><td>s1222</td><td>技巧单曲合集</td></tr>
+<tr><td>s1333</td><td>乱键单曲合集</td></tr>
+<tr><td>s1444</td><td>切换单曲合集</td></tr>
+<tr><td>s2000</td><td>常规段本体合集</td></tr>
+<tr><td>s2111</td><td>第一首单曲合集</td></tr>
+<tr><td>s2222</td><td>第二首单曲合集</td></tr>
+<tr><td>s2333</td><td>第三首单曲合集</td></tr>
+<tr><td>s2444</td><td>第四首单曲合集</td></tr>
+<tr><td>s5000</td><td>常规段本体合集</td></tr>
+<tr><td>s5011</td><td>叠键单曲合集</td><td rowspan="10">v3</td></tr>
+<tr><td>s5022</td><td>技巧单曲合集</td></tr>
+<tr><td>s5033</td><td>乱键单曲合集</td></tr>
+<tr><td>s5044</td><td>切换单曲合集</td></tr>
+<tr><td>s5055</td><td>Starter 合集</td></tr>
+<tr><td>s6000</td><td>发狂段本体合集</td></tr>
+<tr><td>s6011</td><td>叠键单曲合集</td></tr>
+<tr><td>s6022</td><td>技巧单曲合集</td></tr>
+<tr><td>s6033</td><td>乱键单曲合集</td></tr>
+<tr><td>s6044</td><td>切换单曲合集</td></tr>
+  </tbody>
+</table>
+
+ <figcaption> 表 0‑1 Malody 段位 SID</figcaption>
+
+</figure>
+
+## **Osu!mania 4K Dan ~ REFORM ~ Sample v2**
+
+### &emsp;&emsp;官方版（无单曲，不可上传成绩，sample epsilon B 为乘 0.95 版）
+
+&emsp;&emsp; [danreform.com](https://danreform.com)
+
+### &emsp;&emsp;官网版本体（sample epsilon B 为原速版且包含单曲）
+
+&emsp;&emsp;[Various Artists - Original SAMPLE EPSILON Dan v2 · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/1383239)<br />
+&emsp;&emsp;[Various Artists - Dan ~ REFORM ~ SAMPLE Pack 4 - EXTEND · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2213163)
+
+### &emsp;&emsp;官网版单曲（sample epsilon B 单曲为乘 0.95 版）
+
+&emsp;&emsp;[DJ Sharpnel - Dan ~ REFORM ~ SAMPLE Pack 4 (Epsilon Training) · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2417388)<br />
+&emsp;&emsp;[Various Artists - Dan ~ REFORM ~ SAMPLE Pack 4 (First Epsilon Sample Training) · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2377184)<br />
+&emsp;&emsp;[Various Artists - Dan ~ REFORM ~ SAMPLE Pack 4 · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2023849)<br />
+&emsp;&emsp;[Various Artists - Dan ~ REFORM ~ SAMPLE Pack 4 - EXTEND · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2213163)
+
+## **Dan ~ REFORM ~ FINAL**
+
+&emsp;&emsp; Osu 官网搜索 [eta dan Thaumiel](https://osu.ppy.sh/beatmapsets?m=3&nsfw=1&q=eta%20dan%20thaumiel&s=graveyard) 即可。
+
+## **LN Tier Alternative**
+
+&emsp;&emsp; Osu 官网搜索 [kizuna ln tier alternative](https://osu.ppy.sh/beatmapsets?m=3&nsfw=1&q=kizuna%20ln%20tier%20alternative&s=any) 即可。
+
+## **Jinjin's osu!mania 7K Dan Courses**
+
+&emsp;&emsp; Osu 官网搜索 [dan](https://osu.ppy.sh/beatmapsets?m=3&nsfw=1&q=dan&s=any) 即可。
+
+## **Wild 7K Dan Course**
+
+&emsp;&emsp; Osu 官网搜索 [wild dan](https://osu.ppy.sh/beatmapsets?m=3&nsfw=1&q=wild%20dan&s=graveyard) 即可。
+
+## **Xfpsb 4K LN Advanced Dan Course**
+
+&emsp;&emsp; Osu 官网搜索 [xfpsb dan](https://osu.ppy.sh/beatmapsets?m=3&nsfw=1&q=xfpsb%20dan&s=graveyard) 即可。
+
+## **非_underjoy 制作的面段**
+
+&emsp;&emsp;[Various Artists - 4K LN Dan Courses v3 -Extra Level- · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2243057)<br />
+&emsp;&emsp;[Various Artist - 4K LN Dan Courses -EXTRA- · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2340696)<br />
+&emsp;&emsp;[Various Artist - 4K LN Dan Courses -EXTRA- · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2340702)<br />
+&emsp;&emsp;[Various Artists - 4K LN Dan Courses -FINAL · 谱面信息 | osu!](https://osu.ppy.sh/beatmapsets/2332390)
+
+---
+
+&emsp;&emsp;段位之间的难度对比见[附录 2 段位难度天梯表](/VSRG-4K-wiki/appendix/appxB/)，各体系的换算见[难度体系 / 不同体系的转换](/VSRG-4K-wiki/difficulty-rate/conversation/)。
