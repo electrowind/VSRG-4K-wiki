@@ -29,7 +29,7 @@ plugins:
       storage_key: vsrg-font
       fonts:
         - id: uuz
-          label: 隶
+          label: 幽
           title: 隶灵黑
           src: fonts/uuz.woff2
           fallback: fonts/uuz.otf
