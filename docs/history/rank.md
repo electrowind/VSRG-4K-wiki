@@ -13,7 +13,8 @@
 &emsp;&emsp;**旧 10 星**　2023 / 11 / 10 —— [Noah feat. Ai Ohsera - Rebirth the end](https://osu.ppy.sh/beatmapsets/1956376)（10.01 星 → 9.32 星）<br />
 &emsp;&emsp;**新 8 星**　2023 / 9 / 30 —— [Frums - HALL](https://osu.ppy.sh/beatmapsets/2055332)<br />
 &emsp;&emsp;**新 9 星**　2023 / 11 / 10 —— [Noah feat. Ai Ohsera - Rebirth the end](https://osu.ppy.sh/beatmapsets/1956376)<br />
-&emsp;&emsp;**新 10 星**　2025 / 9 / 27 —— [Camellia - Kikai No Tsubasa (feat. Kasane Teto)](https://osu.ppy.sh/beatmapsets/2422085)
+&emsp;&emsp;**新 10 星**　2025 / 9 / 27 —— [Camellia - Kikai No Tsubasa (feat. Kasane Teto)](https://osu.ppy.sh/beatmapsets/2422085)<br />
+&emsp;&emsp;**新 11 星**　2026 / 10 / 22 —— [Raphiiel - Once Forgotten, Nothing Remains](https://osu.ppy.sh/beatmapsets/2574555)
 
 &emsp;&emsp;跳过了九星，最接近的是 [Camellia - Parallel Universe Shifter](https://osu.ppy.sh/beatmapsets/2062263)（8.93 星 → 8.54 星）。
 

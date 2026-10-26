@@ -225,3 +225,112 @@ $\frac{1000}{\frac{1000}{357÷60×4}}$+37.5×2≈8.55KPS
 </figure>
 <div style="text-align: right;color: lightgray;"><i><sup>*</sup>1.5 倍速 / RUSH 各判定区间为原判定的 2 / 3，1.2 倍速 / DASH 各判定区间为原判定的 5 / 6。</i></div>
 
+### 2.5 结算评级 / 结算评价 / rank
+各音游的结算评级名字相近，对应的 acc 要求却不相同，下表列出常见音游的结算评级及其达成条件。
+
+<figure>
+<table>
+  <thead>
+    <tr>
+      <th align="center">结算评级</th>
+      <th align="center">要求</th>
+      <th align="center">游戏</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr><td>M5</td><td>acc = 100%<sup>7</sup></td><td align="center" rowspan="6"><img src="/VSRG-4K-wiki/images/logo-malody.png" width="64" alt="Malody"><br />Malody</td></tr>
+<tr><td>M4</td><td>acc ≥ 95%，且没有 MISS</td></tr>
+<tr><td>M3</td><td>acc ≥ 90%</td></tr>
+<tr><td>M2</td><td>acc ≥ 80%</td></tr>
+<tr><td>M1</td><td>acc ≥ 70%</td></tr>
+<tr><td>M0</td><td>acc &lt; 70%<sup>8</sup></td></tr>
+<tr><td>SS</td><td>acc = 100%</td><td align="center" rowspan="13"><img src="/VSRG-4K-wiki/images/logo-osu.png" width="64" alt="osu!mania"><br />osu!mania</td></tr>
+<tr><td>S</td><td>acc ≥ 95%</td></tr>
+<tr><td>A</td><td>acc ≥ 90%</td></tr>
+<tr><td>B</td><td>acc ≥ 80%</td></tr>
+<tr><td>C</td><td>acc ≥ 70%</td></tr>
+<tr><td>D</td><td>acc &lt; 70%</td></tr>
+<tr><td>F</td><td>failed<sup>9</sup></td></tr>
+<tr><td>SS<sup>10</sup></td><td>acc = 100%，且启用阻碍视线类模组</td></tr>
+<tr><td>S<sup>10</sup></td><td>acc ≥ 95%，且启用阻碍视线类模组</td></tr>
+<tr><td>AAAAA</td><td>acc ≥ 99.9935%</td></tr>
+<tr><td>AAAA:<sup>11</sup></td><td>acc ≥ 99.98%</td></tr>
+<tr><td>AAAA.</td><td>acc ≥ 99.97%</td></tr>
+<tr><td>AAAA</td><td>acc ≥ 99.955%</td></tr>
+<tr><td>AAA:</td><td>acc ≥ 99.90%</td><td align="center" rowspan="13"><img src="/VSRG-4K-wiki/images/logo-etterna.png" width="64" alt="Etterna"><br />Etterna(wife)</td></tr>
+<tr><td>AAA.</td><td>acc ≥ 99.80%</td></tr>
+<tr><td>AAA</td><td>acc ≥ 99.70%</td></tr>
+<tr><td>AA:</td><td>acc ≥ 99%</td></tr>
+<tr><td>AA.</td><td>acc ≥ 96.5%</td></tr>
+<tr><td>AA</td><td>acc ≥ 93%</td></tr>
+<tr><td>A:</td><td>acc ≥ 90%</td></tr>
+<tr><td>A.</td><td>acc ≥ 85%</td></tr>
+<tr><td>A</td><td>acc ≥ 80%</td></tr>
+<tr><td>B</td><td>acc ≥ 70%</td></tr>
+<tr><td>C</td><td>acc ≥ 60%</td></tr>
+<tr><td>D</td><td>acc &lt; 60%</td></tr>
+<tr><td>F</td><td>failed</td></tr>
+<tr><td>X</td><td>acc = 100%</td><td align="center" rowspan="8"><img src="/VSRG-4K-wiki/images/logo-quaver.png" width="64" alt="Quaver"><br />Quaver</td></tr>
+<tr><td>S+</td><td>acc ≥ 99%</td></tr>
+<tr><td>S</td><td>acc ≥ 95%</td></tr>
+<tr><td>A</td><td>acc ≥ 90%</td></tr>
+<tr><td>B</td><td>acc ≥ 80%</td></tr>
+<tr><td>C</td><td>acc ≥ 70%</td></tr>
+<tr><td>D</td><td>acc &lt; 70%</td></tr>
+<tr><td>F</td><td>failed</td></tr>
+  </tbody>
+</table>
+<figcaption>表 2-7 音游的结算评级<sup>12</sup></figcaption>
+</figure>
+<div style="text-align: right;color: lightgray;"><i><sup>7</sup> 由于 Malody 断连不扣 acc，所以即使没有全连也能达到 M5 评价。<br />
+<sup>8</sup> 这类成绩在登录状态下也不会被上传。<br />
+<sup>9</sup> Failed 指没有完成曲目，与 acc 无关，下同。<br />
+<sup>10</sup> 指 HD、FL 和 FI mod，此时结算界面上的 SS、S 显示为银色。<br />
+<sup>11</sup> 此类在原有基础上加“:”和“.”的细分评级从 2020 年宣布至今仍需特殊方式才能开启。<br />
+<sup>12</sup> <a href="/VSRG-4K-wiki/appendix/appxC/">附录 3 有争议的数据</a>中记录了 Etterna 曾经使用的结算评级。</i></div>
+
+### 2.6 Cleartypes
+仅存在于 Etterna 和 FFR 等硬核音游，根据你在游玩时的成绩结算而形成，不会随着判定的换算而进行改变，例如在 J7 判定下打出 PFC 换算成 J4 为全彩，cleartypes 也不会因此变为 MFC。以下是各种 cleartypes 的达成条件：
+
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-76.png" alt="cleartypes"></td>
+</tr></table>
+<figcaption>图 2-76 结算评级下方即为 cleartypes</figcaption>
+</figure>
+
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-01.png" style="height:17px;vertical-align:-2px;" alt="MFC"> —— Marvelous Full Combo，即全彩。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-02.png" style="height:17px;vertical-align:-2px;" alt="WF"> —— White Flag，在其余都是彩的基础上打出 1 黄，即 MFC choke。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-03.png" style="height:17px;vertical-align:-2px;" alt="SDP"> —— Single Digit Perfects，在只有黄彩两种判定的基础上（PFC），Perfect 判定数小于等于 9 个。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-04.png" style="height:17px;vertical-align:-2px;" alt="PFC"> —— Perfect Full Combo，只有黄彩两种判定，可以理解为 SS。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-05.png" style="height:17px;vertical-align:-2px;" alt="BF"> —— Black Flag，在其余都是黄和彩的基础上打出一个 great 判定，PFC choke。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-06.png" style="height:17px;vertical-align:-2px;" alt="SDG"> —— Single Digit Greats，在 FC 的基础上，great 判定小于等于 9 个。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-07.png" style="height:17px;vertical-align:-2px;" alt="FC"> —— Full Combo，全连。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-08.png" style="height:17px;vertical-align:-2px;" alt="MF"> —— Miss Flag，差点 FC，出现一次断连即可达成。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-09.png" style="height:17px;vertical-align:-2px;" alt="SDCB"> —— Single Digit Combo Breakers，断连次数 ≤ 9。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-10.png" style="height:17px;vertical-align:-2px;" alt="Clear"> —— pass 谱面即可。<br />
+&emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-11.png" style="height:17px;vertical-align:-2px;" alt="Failed"> —— 没 pass 就是 failed。
+
+### 2.7 结算评级常见问题
+显示 95.00% 但是 A 评级的原因是
+
+&emsp;&emsp;$\frac{2473×305+1551×300+279×200+29×100+19×50}{(2473+1551+279+29+19+64)×305}≈94.997679\%$
+
+Osu 只能显示两位小数，于是四舍五入为 95.00%；其他评级同理。
+
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-77.png" alt="Filing 的结算界面"></td>
+</tr></table>
+<figcaption>图 2-77 Filing 的结算界面</figcaption>
+</figure>
+
+这里常有一个误区，图中的①是判定等级，而非其他音游的结算评级，②才是结算评级。
+
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-78.png" alt="死神是块砖 ex8 的结算界面"></td>
+</tr></table>
+<figcaption>图 2-78 死神是块砖 ex8 的结算界面</figcaption>
+</figure>
+
