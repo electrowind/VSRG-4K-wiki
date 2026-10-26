@@ -17,8 +17,8 @@ theme:
     - content.action.edit
     - content.action.view
 
-  font:
-    text: uuz
+  # font:
+  #   text: uuz
 
 repo_url: https://github.com/electrowind/VSRG-4K-wiki
 repo_name: electrowind/VSRG-4K-wiki
@@ -59,5 +59,47 @@ nav:
     - 星数: difficulty-rate/starrate.md
     - 不同体系的转换: difficulty-rate/conversation.md
 
+  - 游玩技巧:
+    - Index: playing/index.md
+    - 快捷键: playing/hotkey.md
+    - 网站: playing/website.md
+    - 插件: playing/plugin.md
+    - 辅助软件: playing/software.md
+    - 游玩姿势: playing/posture.md
+    - 皮肤: playing/skin.md
+    - 外设: playing/peripheral.md
+    - 练习谱: playing/practice.md
+    - 刷 PP: playing/pp.md
+    - 私服: playing/private-server.md
+    - 鉴挂: playing/cheat-check.md
+    - 多人游戏: playing/multiplayer.md
+    - 组织与战队: playing/team.md
+    - 比赛: playing/tournament.md
+
+  - 专用名词:
+    - Index: terms/index.md
+    - 官方名词: terms/official.md
+    - 分度·越级·串·读·糊·拍: terms/basic.md
+    - 段落·比·藏·热手·龙·和解: terms/section.md
+    - Acc 定级法·卖弱·KPS: terms/accuracy.md
+    - 放置飞升·投皮·等效 BPM: terms/speed.md
+    - 联机相关·主难次难: terms/mp.md
+    - 歌曲、谱面别称: terms/nickname.md
+    - 其他俚语: terms/misc.md
+
+  - 常见事件及人物:
+    - Index: history/index.md
+    - pp 系统: history/pp.md
+    - 分数系统: history/score.md
+    - 玩家: history/player.md
+    - Rank 区进化史: history/rank.md
+    - 段位首杀与制作: history/dan.md
+    - StepMania: history/stepmania.md
+
   - 附录:
     - 段位下载方式: appendix/appxA.md
+    - 段位难度天梯表: appendix/appxB.md
+    - 有争议的数据: appendix/appxC.md
+    - 其他文献: appendix/appxD.md
+
+  - 后记: postscript.md
