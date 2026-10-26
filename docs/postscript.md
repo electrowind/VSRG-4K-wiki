@@ -16,32 +16,18 @@
 
 # 特别鸣谢
 
-&emsp;&emsp;感谢所有帮助过我的人。
+&emsp;&emsp;感谢所有帮助过我的人，
 
 ## 意见提供
 
-&emsp;&emsp;[[Crz]xuyonghao](https://osu.ppy.sh/users/17611342)　[ADFF](https://osu.ppy.sh/users/21106822)　[Alpho](https://osu.ppy.sh/users/32722345)　[BFG11K](https://osu.ppy.sh/users/32596839)　[breakinggg](https://etternaonline.com/users/breakinggg)　[eziro](https://osu.ppy.sh/users/35011008)　[J8xy](https://osu.ppy.sh/users/29732348)　[Leo_Black](https://osu.ppy.sh/users/21207706)　[mfsOvO](https://osu.ppy.sh/users/35500715)　[mowu233](https://osu.ppy.sh/users/35409815)　[sumsnow](https://osu.ppy.sh/users/37771425)　[Test05](https://osu.ppy.sh/users/8173806)　[YiHa_Official](https://space.bilibili.com/1585686097)　[御坂美琴AAA](https://space.bilibili.com/323703856)　[yzuio](https://osu.ppy.sh/users/28720643)
+&emsp;&emsp;[[Crz]xuyonghao](https://osu.ppy.sh/users/17611342)　[ADFF](https://osu.ppy.sh/users/21106822)　[Alpho](https://osu.ppy.sh/users/32722345)　[BFG11K](https://osu.ppy.sh/users/32596839)　[breakinggg](https://etternaonline.com/users/breakinggg)　[eziro](https://osu.ppy.sh/users/35011008)　[J8xy](https://osu.ppy.sh/users/29732348)　[Leo_Black](https://osu.ppy.sh/users/21207706)　[mfsOvO](https://osu.ppy.sh/users/35500715)　[mowu233](https://osu.ppy.sh/users/35409815)　[sumsnow](https://osu.ppy.sh/users/37771425)　[Test 05](https://osu.ppy.sh/users/8173806)　[YiHa_Official](https://space.bilibili.com/1585686097)　[御坂美琴AAA](https://space.bilibili.com/323703856)　[yzuio](https://osu.ppy.sh/users/28720643)
 
 ## 帮助
 
-&emsp;&emsp;[_Asterism](https://osu.ppy.sh/users/24605530)
-
-## 封面 &amp; 宣图制作
-
-&emsp;&emsp;[[GB]yobrevelc](https://osu.ppy.sh/users/14128407)
-
-## 参考文献
-
-&emsp;&emsp;[OSU!Mania 4k 新人指南 2.0 版本（2023.1.9 发布）- 哔哩哔哩](https://www.bilibili.com/read/cv21089786/)　—　[Doshowz](https://osu.ppy.sh/users/5799435)
-
-&emsp;&emsp;[StepMania 排列入门 v1.0 - 文集 - 哔哩哔哩专栏](https://www.bilibili.com/read/readlist/rl457788)　等专栏　—　[RAINYSHINE064](https://osu.ppy.sh/users/36487001)
-
-&emsp;&emsp;[4K 系音游完全入门到精通指南 #0 序言_MALODY](https://www.bilibili.com/video/BV1jN4y1T7uj/)　—　[Mihari0864](https://osu.ppy.sh/users/31908691/mania)
-
-## 其他
-
-&emsp;&emsp;**7K 段位 rework 数据统计**：[SimYtNa](https://osu.ppy.sh/users/32026760)
-
-&emsp;&emsp;**提供鉴挂等大纲**：[V1do-](https://osu.ppy.sh/users/17527968)
-
-&emsp;&emsp;**提供大量历史资料参考，以及 ett 侧的帮助**
+&emsp;&emsp;[_Asterism](https://osu.ppy.sh/users/24605530)　封面 &amp; 宣图制作<br />
+&emsp;&emsp;[[GB]yobrevelc](https://osu.ppy.sh/users/14128407)　[OSU!Mania 4k 新人指南 2.0 版本（2023.1.9 发布）- 哔哩哔哩](https://www.bilibili.com/read/cv21089786/) 作为参考文献<br />
+&emsp;&emsp;[Doshowz](https://osu.ppy.sh/users/5799435)　[StepMania 排列入门 v1.0 - 文集 哔哩哔哩专栏](https://www.bilibili.com/read/readlist/rl457788) 等专栏作为参考文献<br />
+&emsp;&emsp;[RAINYSHINE064](https://osu.ppy.sh/users/36487001)　[7K 段位 rework 数据统计](/VSRG-4K-wiki/difficulty-rate/conversation/)<br />
+&emsp;&emsp;[SimYtNa](https://osu.ppy.sh/users/32026760)　[提供鉴挂等大纲](/VSRG-4K-wiki/playing/cheat-check/)<br />
+&emsp;&emsp;[V1do-](https://osu.ppy.sh/users/17527968)　[4K 系音游完全入门到精通指南 #0 序言_MALODY](https://www.bilibili.com/video/BV1jN4y1T7uj/) 作为参考文献<br />
+&emsp;&emsp;[Mihari0864](https://osu.ppy.sh/users/31908691/mania)　提供大量历史资料参考，以及 ett 侧的帮助
