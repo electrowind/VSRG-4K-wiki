@@ -1,32 +1,74 @@
-name: ci 
+name: ci
+
 on:
   push:
     branches:
-      - master 
       - main
+      - master
+  pull_request:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Configure Git Credentials
+
+      - name: 确保 Pages 构建源为 GitHub Actions
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          code=$(curl -sS -o /tmp/pages.json -w "%{http_code}" \
+            -X PUT \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages" \
+            -d '{"build_type":"workflow"}')
+          echo "PUT /pages -> HTTP $code"
+          [ -s /tmp/pages.json ] && cat /tmp/pages.json
+          case "$code" in
+            200|204) echo "Pages 已使用 GitHub Actions 构建" ;;
+            *) echo "::warning::无法通过 API 切换 Pages 构建源（HTTP $code），请在 Settings → Pages → Build and deployment 里把 Source 改为 \"GitHub Actions\"" ;;
+          esac
+
+      - uses: actions/configure-pages@v5
+
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 构建静态站点
+        run: mkdocs build --strict
+
+      - uses: actions/upload-pages-artifact@v3
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: pip install mkdocs-git-committers-plugin-2
-      - run: pip install mkdocs-rss-plugin
-      - run: mkdocs gh-deploy --force
+          path: site
+
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
