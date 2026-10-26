@@ -2,7 +2,7 @@
 
 &emsp;&emsp;本附录收录的都是**存疑**或**已过时**的资料：有的数据来源不明，有的划分方式在社区里并不统一，有的则已经跟不上算法更新。放在这里是为了留个参考，**不要当作结论引用**。
 
-&emsp;&emsp;原书作者在脚注里的原话是："防止有的人不看标题，我把本附录都突出显示了。"
+<div style="text-align: right;color: lightgray;"><i><sup>*</sup>防止有的人不看标题，本附录都<span style="font-weight: bold;color: black;">突出显示</span>了。（我这边建议把带有争议放前面，不然像我这种不看完就发言的。——志兔）</i></div>
 
 ## 1. 存疑的一种 SV2 判定区间表
 
@@ -13,8 +13,8 @@
   <thead>
     <tr>
       <th align="center">判定严度 / OD</th>
-      <th align="center">面尾偏快判定（5 档）</th>
-      <th align="center">面尾偏慢判定（5 档）</th>
+      <th align="center">面尾偏快判定（300g/300/200/100/50）</th>
+      <th align="center">面尾偏慢判定（300g/300/200/100/50）</th>
     </tr>
   </thead>
   <tbody>
@@ -65,14 +65,14 @@
     <tr><td>0</td><td>22.5 / 64.5 / 97.5 / 127.5 / 151.5</td><td>33.5 / 96.5 / 145.5 / 190.5 / 226.5</td></tr>
   </tbody>
 </table>
-<figcaption>表 0-4 存疑的 SV2 判定区间</figcaption>
+<figcaption>表 0-4 <strong>存疑</strong>的 SV2 判定区间</figcaption>
 </figure>
 
 <figure>
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-sv2.png" width="700" alt="SV2 判定区间"></td>
 </tr></table>
-<figcaption>图 0-1 存疑的 SV2 判定区间</figcaption>
+<figcaption>图 0-1 <strong>存疑</strong>的 SV2 判定区间</figcaption>
 </figure>
 
 ## 2. 有争议的键型划分图
@@ -83,7 +83,7 @@
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-keytype.png" width="620" alt="键型划分图"></td>
 </tr></table>
-<figcaption>图 0-2 有争议的键型划分图</figcaption>
+<figcaption>图 0-2 <strong>有争议的</strong>键型划分图</figcaption>
 </figure>
 
 ## 3. 过时的大致排名对应段位图
@@ -92,7 +92,7 @@
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-rank-dan.png" alt="排名对应段位"></td>
 </tr></table>
-<figcaption>图 0-3 过时的大致排名对应段位图<sup>[1]</sup></figcaption>
+<figcaption>图 0-3 <strong>过时的</strong>大致排名对应段位图<sup>[1]</sup></figcaption>
 </figure>
 
 <div style="text-align: right;color: lightgray;"><i><sup>[1]</sup> 截图自 <a href="https://github.com/ppy/osu-web/pull/12483">Add tiered colour for global rank by nanaya · Pull Request #12483 · ppy/osu-web · GitHub</a>。</i></div>
@@ -103,7 +103,7 @@
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-etterna-grade.png" alt="Etterna 结算评级"></td>
 </tr></table>
-<figcaption>图 0-4 Etterna 曾经使用的结算评级</figcaption>
+<figcaption>图 0-4 Etterna <strong>曾经使用</strong>的结算评级</figcaption>
 </figure>
 
 ## 5. 有争议的叠图天梯表
@@ -114,21 +114,21 @@
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-jack-tier-1.png" width="700" alt="叠图天梯表上"></td>
 </tr></table>
-<figcaption>图 0-5 有争议的叠图天梯表（上）</figcaption>
+<figcaption>图 0-5 <strong>有争议的</strong>叠图天梯表（上）</figcaption>
 </figure>
 
 <figure>
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-jack-tier-2.png" width="700" alt="叠图天梯表下"></td>
 </tr></table>
-<figcaption>图 0-6 有争议的叠图天梯表（下）</figcaption>
+<figcaption>图 0-6 <strong>有争议的</strong>叠图天梯表（下）</figcaption>
 </figure>
 
 <figure>
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-jack-tier-3.png" width="420" alt="叠图天梯表整图"></td>
 </tr></table>
-<figcaption>图 0-7 有争议的叠图天梯表</figcaption>
+<figcaption>图 0-7 <strong>有争议的</strong>叠图天梯表</figcaption>
 </figure>
 
 ---

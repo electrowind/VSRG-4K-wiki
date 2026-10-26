@@ -48,10 +48,10 @@
 <figure>
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/2-169.png" width="215" alt="大树"></td>
-<td><img src="/VSRG-4K-wiki/images/2-170.png" width="215" alt="大天空"></td>
-<td><img src="/VSRG-4K-wiki/images/2-171.png" width="275" alt="金字塔"></td>
+<td><img src="/VSRG-4K-wiki/images/2-170.png" width="215" alt="金字塔"></td>
+<td><img src="/VSRG-4K-wiki/images/2-171.png" width="275" alt="大天空"></td>
 </tr></table>
-<figcaption>图 2-169（左）Forgotten[The Ghost of 3.13] ~ 大树　图 2-170（中）Far in the blue sky...[saikoro] ~ 大天空　图 2-171（右）Quadraphinix[Sharkey &amp; Arkitech] ~ 金字塔</figcaption>
+<figcaption>图 2-169（左）Forgotten[The Ghost of 3.13] ~ 大树<br />图 2-170（中）Quadraphinix[Sharkey &amp; Arkitech] ~ 金字塔<br />图 2-171（右）Far in the blue sky...[saikoro] ~ 大天空</figcaption>
 </figure>
 
 ## 7. 联想

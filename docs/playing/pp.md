@@ -10,7 +10,7 @@
 
 ## 2. 现代、偏面的 PP 图
 
-&emsp;&emsp;截止 2025 / 10 / 28 还在更新。<br />
-&emsp;&emsp;[pp 图大补全系列](https://space.bilibili.com/398610976/lists/5568274?type=season)
-
+<del>&emsp;&emsp;截止 2025 / 10 / 28 还在更新。<br />
+&emsp;&emsp;[pp 图大补全系列](https://space.bilibili.com/398610976/lists/5568274?type=season)</del>
+<br />&emsp;&emsp;（2026.10.27更新）由于该系列作者发表一些不当言论后退圈并删除该系列内容，此链接已失效。由他人维护的新表格：[om4k pp图收集](https://docs.qq.com/sheet/DV0tHRUdvdHZpVEtZ)
 ---
