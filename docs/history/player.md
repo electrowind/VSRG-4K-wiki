@@ -6,17 +6,13 @@
 
 &emsp;&emsp;osu! 个人资料：<https://osu.ppy.sh/users/1089335>
 
-&emsp;&emsp;StepMania 玩家，Delta Dan 首杀，曾被认为是最有可能 clear epsilon dan 的人其一，擅长除乱键以外的常规键型，尤其是叠键和切换，至今仍活跃在 Etterna。
-
-&emsp;&emsp;相关视频：<https://www.bilibili.com/video/BV1ex411q7AM/>、<https://www.bilibili.com/video/BV1kW411c7As/>
+&emsp;&emsp;StepMania 玩家，[Delta Dan 首杀](https://www.bilibili.com/video/BV1ex411q7AM/)，曾被认为是[最有可能 clear epsilon dan 的人其一](https://www.bilibili.com/video/BV1kW411c7As/)，擅长除乱键以外的常规键型，尤其是叠键和切换，至今仍活跃在 Etterna。
 
 ## 2. SillyFangirl / 罗宾 / NateTheROOBIN
 
 &emsp;&emsp;osu! 个人资料：<https://osu.ppy.sh/users/2288363>
 
-&emsp;&emsp;MWC 2020 和 2021 4K 冠军，曾被认为是最有可能 clear epsilon dan 的人其二，擅长大乱和糊，准度也非常高；至今仍活跃在 FNF。
-
-&emsp;&emsp;相关视频：<https://www.bilibili.com/video/BV1Wt411g7N2/>
+&emsp;&emsp;MWC 2020 和 2021 4K 冠军，曾被认为是[最有可能 clear epsilon dan 的人其二](https://www.bilibili.com/video/BV1Wt411g7N2/)，擅长大乱和糊，准度也非常高；至今仍活跃在 FNF。
 
 ## 3. IcyWorld / icontrolyourworld
 
@@ -24,15 +20,13 @@
 
 &emsp;&emsp;Flash Flash Revolution / FFR 玩家，最著名的谱师之一，改变了切换这个键型，后来的切换谱师或多或少都受到他的影响，至今仍活跃在 osu，联机房间内可能随机刷新 IcyWorld。
 
-## 4. Jakads / 假卡 / DeletedUser_25997266<sup>[1]</sup>
+## 4. Jakads / 假卡 / DeletedUser_259972<sup>[1]</sup>
 
 &emsp;&emsp;osu! 个人资料：<https://osu.ppy.sh/users/259972>
 
-&emsp;&emsp;MWC 2016 2017 4K，2017 2018 2019 7K 冠军，regular stellium dan 首杀，因不会 vibro 早年已退坑 OM 4K，退坑前长期世界第一，擅长叠键；发表暂停圣经之一<sup>[2]</sup>：Pause is not cheating.
+&emsp;&emsp;MWC 2016 2017 4K，2017 2018 2019 7K 冠军，regular stellium dan 首杀，因不会 vibro 早年已退坑 OM 4K，[退坑](https://www.bilibili.com/video/BV1H64y197vN/)前长期世界第一，擅长叠键；发表暂停圣经之一<sup>[2]</sup>：Pause is not cheating.
 
 &emsp;&emsp;现在仍活跃在其他音游社区。
-
-&emsp;&emsp;相关视频：<https://www.bilibili.com/video/BV1H64y197vN/>
 
 <div style="text-align: right;color: lightgray;"><i><sup>[1]</sup> Osu 账号注销后的名字。<br /><sup>[2]</sup> 另一个是 AWMRone / 狙神的名言：执念太深了。你偷偷暂停几次，又没人能发现，何必和自己过不去呢？年纪大了，要学会与自己和解。</i></div>
 
@@ -40,9 +34,7 @@
 
 &emsp;&emsp;osu! 个人资料：<https://osu.ppy.sh/users/140148>
 
-&emsp;&emsp;MWC 2014 冠军，最跨时代的 mania 玩家，曾一晚上刷了 11311PP，从 #76 12308pp 刷到 #223719pp，随后不久便刷到了世界第一，擅长大乱散点，传闻面条略低于常规；第一次回归打出 4K delta dan 首 99acc，不久便再次退坑，油管已隐藏所有视频，沉迷于钢琴。
-
-&emsp;&emsp;相关视频：<https://www.bilibili.com/video/BV1es411h7iX/>
+&emsp;&emsp;MWC 2014 冠军，最跨时代的 mania 玩家，曾一晚上刷了 11311PP，[从 #76 12308pp 刷到 #2 23719pp](https://www.bilibili.com/video/BV1es411h7iX/)，随后不久便刷到了世界第一，擅长大乱散点，传闻面条略低于常规；第一次回归打出 4K delta dan 首 99acc，不久便再次退坑，油管已隐藏所有视频，沉迷于钢琴。
 
 ## 6. Abcdullah
 
@@ -62,19 +54,17 @@
 
 &emsp;&emsp;osu! 个人资料：<https://osu.ppy.sh/users/8474029>
 
-&emsp;&emsp;MWC 2018 4K 冠军，2019 MWC 4K 7K 双冠，是继 ATTang 和 Sillyfangirl 之后最有可能 clear epsilon dan 的人；时不时回坑，但已经好几年没消息了。
+&emsp;&emsp;MWC 2018 4K 冠军，2019 MWC 4K 7K 双冠，是继 ATTang 和 Sillyfangirl 之后[最有可能 clear epsilon dan 的人](https://www.bilibili.com/video/BV1RE411D76T/)；时不时回坑，<del>但已经好几年没消息了</del>。
 
-&emsp;&emsp;相关视频：<https://www.bilibili.com/video/BV1RE411D76T/>
+&emsp;&emsp;于[2025 年末至 2026 年初](https://www.bilibili.com/video/BV1ydodBrEum/)和[2026 年 7 月](https://www.bilibili.com/video/BV1n8KK6BEv2/)短暂复活过一段时间，水平不减当年，被严重怀疑偷玩。
 
 ## 9. Myuka / myucchii / 米优奇 / sointu / arrese
 
 &emsp;&emsp;osu! 个人资料：<https://osu.ppy.sh/users/10072733>
 
-&emsp;&emsp;常年代表智利参加 MWC，致力于发展完善智利 4K 社区；Saragi 时期前常年 4K 世界第一；拿下 epsilon dan 首杀<sup>[4]</sup>；以高难度下的高彩率闻名。
+&emsp;&emsp;常年代表智利参加 MWC，致力于发展完善智利 4K 社区；Saragi 时期前常年 4K 世界第一；拿下 [epsilon dan 首杀](https://www.bilibili.com/video/BV1Q541147TU/)<sup>[4]</sup>；以高难度下的高彩率闻名。
 
-&emsp;&emsp;相关视频：<https://www.bilibili.com/video/BV1Q541147TU/>
-
-<div style="text-align: right;color: lightgray;"><i><sup>[4]</sup> 有争议，修改 Mario Paint[D-ANOTHOR] 排列。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>[4]</sup> 有争议，修改 Mario Paint[D-ANOTHER] 排列。</i></div>
 
 ## 10. Kanemining
 

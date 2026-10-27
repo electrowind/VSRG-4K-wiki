@@ -117,4 +117,21 @@
 <figcaption>图 2-119 ArrowVortex</figcaption>
 </figure>
 
+## 8. osu!mania/Etterna/Malody难度估计插件 / osumania map analyser
+
+&emsp;&emsp;[[o!m实用工具] 难度估计2.0版本发布！ReworkPP/预设系统/性能优化/精度优化/QoL](https://www.bilibili.com/video/BV1Jgbi6VE26)<br />
+&emsp;&emsp;[Github仓库：LeoBlackMT/osumania_map_analyser](https://github.com/LeoBlackMT/osumania_map_analyser/)
+
+&emsp;&emsp;最初受[saragi直播时使用的难度预测插件](https://thebagelofman.github.io/Daniel/)启发（发布时saragi使用的插件尚未公开），由[Leo_Black](https://space.bilibili.com/357685001)制作。支持估算难度、RC/LN键型分析、多MSD版本计算、难度分布等多种实用功能。
+
+&emsp;&emsp;2.1.0及以后的版本可作为tosu插件或独立软件运行，此前仅有tosu插件版本。
+
+<figure>
+<table><tr>
+<td><img src="/VSRG-4K-wiki/images/2-119a.png" alt="osumania map analyser"></td>
+</tr></table>
+<figcaption>图 2-119a 难度估计插件界面（编者补）</figcaption>
+</figure>
+
 ---
+

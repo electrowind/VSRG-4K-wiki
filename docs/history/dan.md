@@ -33,7 +33,8 @@
 
 &emsp;&emsp;详情可见 [Malody 社区 4K 段位变迁发展史 - 哔哩哔哩](https://www.bilibili.com/opus/394050781120251043)。
 
-<div style="text-align: right;color: lightgray;"><i><sup>[1]</sup> 修改 Mario Paint[D-ANOTHOR] 排列。<br /><sup>[2]</sup> Stellium 段位允许在曲目间无时间限制暂停。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>[1]</sup> 修改 Mario Paint[D-ANOTHER]<sup>*</sup> 排列。<br /><sup>[2]</sup> Stellium 段位允许在曲目间无时间限制暂停。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>*</sup> 铸币 uuz 打错字了，原文写成了 ANOTHOR。</i></div>
 
 ## 2. 段位制作
 
