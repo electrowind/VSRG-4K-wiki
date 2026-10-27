@@ -7,8 +7,8 @@
 &emsp;&emsp;**Ctrl + O**：呼出设置 / option；适用范围：除游玩、编辑以外的界面。<br />
 &emsp;&emsp;**Ctrl + Alt + Shift + S**：重新加载皮肤 / skin；适用范围：除游玩以外的界面。<br />
 &emsp;&emsp;**Shift + Tab**：隐藏或显示游戏时界面，即隐藏或显示分数 / score、准度 / accuracy、连击数 / combo、游戏进度、开启的 mod；适用范围：游玩界面。<br />
-&emsp;&emsp;**Ctrl + +**：增加下落速度；适用范围：游玩选歌和编辑选歌界面。<br />
-&emsp;&emsp;**Ctrl + -**：减少下落速度；适用范围：同上。
+&emsp;&emsp;**Ctrl + "+"（加号键）**：增加下落速度；适用范围：游玩选歌和编辑选歌界面。<br />
+&emsp;&emsp;**Ctrl + "-"（减号键）**：减少下落速度；适用范围：同上。
 
 <figure>
 <table><tr>
@@ -24,6 +24,8 @@
 
 ## 3. 老板键 / boss key
 
-&emsp;&emsp;老板键是一种热键或热键组合，用于快速隐藏游戏或其他无关工作的程式，并让显示器呈现正常工作时的画面，藉以欺瞒老板和同事等，达到保护您隐私的目的，使之以为上班时间进行娱乐的员工在做自己份内的工作。
+&emsp;&emsp;老板键是一种热键或热键组合，用于快速隐藏游戏或其他无关工作的程式，并让显示器呈现正常工作时的画面，藉以欺瞒老板和同事等，达到保护您隐私的目的，使之以为上班时间进行娱乐的员工在做自己份内的工作。<sup>v</sup>
+
+<div style="text-align: right;color: lightgray;"><i><sup>v</sup> 全段引用自 <a href="https://baike.baidu.com/item/%E8%80%81%E6%9D%BF%E9%94%AE/873929">老板键_百度百科</a>。</i></div>
 
 ---

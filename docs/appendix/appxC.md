@@ -92,10 +92,10 @@
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/appC-rank-dan.png" alt="排名对应段位"></td>
 </tr></table>
-<figcaption>图 0-3 <strong>过时的</strong>大致排名对应段位图<sup>[1]</sup></figcaption>
+<figcaption>图 0-3 <strong>过时的</strong>大致排名对应段位图<sup>viii</sup></figcaption>
 </figure>
 
-<div style="text-align: right;color: lightgray;"><i><sup>[1]</sup> 截图自 <a href="https://github.com/ppy/osu-web/pull/12483">Add tiered colour for global rank by nanaya · Pull Request #12483 · ppy/osu-web · GitHub</a>。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>viii</sup> 截图自 <a href="https://github.com/ppy/osu-web/pull/12483">Add tiered colour for global rank by nanaya · Pull Request #12483 · ppy/osu-web · GitHub</a>。</i></div>
 
 ## 4. Etterna 曾经使用的结算评级
 

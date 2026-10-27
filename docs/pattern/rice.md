@@ -9,9 +9,9 @@
 <table><tr>
 <td><a href="https://baike.baidu.com/item/%E6%B2%99%E5%A0%86%E6%82%96%E8%AE%BA?fromModule=lemma_search-box"><img src="/VSRG-4K-wiki/images/2-16soritesparadox.png" alt="sorites-paradox"></a></td>
 </tr></table>
-<figcaption>图 2-16 沙堆悖论<sup>*</sup></figcaption>
+<figcaption>图 2-16 沙堆悖论<sup>i</sup></figcaption>
 </figure>
-<div style="text-align: right;color: lightgray;"><i><sup>*</sup>截图自<a href="https://baike.baidu.com/item/%E6%B2%99%E5%A0%86%E6%82%96%E8%AE%BA?fromModule=lemma_search-box">沙堆悖论_百度百科</a>。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>i</sup> 截图自<a href="https://baike.baidu.com/item/%E6%B2%99%E5%A0%86%E6%82%96%E8%AE%BA?fromModule=lemma_search-box">沙堆悖论_百度百科</a>。</i></div>
 &emsp;&emsp;除部分非常模糊的谱面，沙堆悖论并不影响我们分类绝大多数谱面。
 
 [4K 系音游完全入门到精通指南 #3 全键型详解](https://www.bilibili.com/video/BV1T94y1D7uS) 提供了一种分类方法。
@@ -100,9 +100,10 @@
 
 
 ### 2.1 脚排列
-&emsp;&emsp;一四列固定配色<sup>[2]</sup>，二三列配色无明显要求；谱面中锚键出现频率高， 且多集中于两侧；脚排列一般仅包含单乱。如图 2-27 中一四列存在大量锚键。<br /><sub>本段引用自 <a href="https://www.bilibili.com/read/cv12823416">StepMania 排列入门 03：大乱 - 哔哩哔哩</a></sub>
+&emsp;&emsp;一四列固定配色<sup>[2]</sup>，二三列配色无明显要求；谱面中锚键出现频率高， 且多集中于两侧；脚排列一般仅包含单乱。如图 2-27 中一四列存在大量锚键。<sup>ii</sup>
 <!-- 原文有误 如**图2-1-2-11**中一四列…… -->
-<div style="text-align: right;color: lightgray;"><i> <sup>[2]</sup> 在 OM 中为某列蓝色，另一列红或白色。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>[2]</sup> 在 OM 中为某列蓝色，另一列红或白色。</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>ii</sup> 全段引用自 <a href="https://www.bilibili.com/opus/562077409350053123/?from=readlist">StepMania 排列入门 03：大乱 - 哔哩哔哩</a>。</i></div>
 
 ### 2.2 古典排列
 ### 2.3 现代排列

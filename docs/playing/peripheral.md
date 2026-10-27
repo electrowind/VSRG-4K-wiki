@@ -29,10 +29,12 @@
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/2-137.png" alt="magnetic polarity"></td>
 </tr></table>
-<figcaption>图 2-137 磁极朝向</figcaption>
+<figcaption>图 2-137 磁极朝向<sup>vi</sup></figcaption>
 </figure>
 
 &emsp;&emsp;注意，磁轴的磁极朝向分为 N 极朝灯，N 极朝下，N 极朝上三种，不同类型互不兼容，部分支持多种方案，购买时注意区别。
+
+<div style="text-align: right;color: lightgray;"><i><sup>vi</sup> 截图自 <a href="https://www.bilibili.com/video/BV1YT4y187Wg/">【键盘科普】你知道你的磁轴键盘兼容哪些磁轴吗？（上）_哔哩哔哩_bilibili</a>。</i></div>
 
 <div style="text-align: right;color: lightgray;"><i><sup>[1]</sup> 在 mania 几乎用不上的功能可自行查阅资料，包括但不限于：DKS / 动态键程、MT / 双效点击、SOCD / 瞬时释放、TK / 切换开关、ANA IN / 模拟输入，下同；其中 DKS / 动态键程可极大提升 std 模式水平，存在争议；部分功能可提高 FPS 游戏水平。</i></div>
 
@@ -107,9 +109,11 @@
 <table><tr>
 <td><img src="/VSRG-4K-wiki/images/2-142.png" alt="analog optical switch"></td>
 </tr></table>
-<figcaption>图 2-142 模拟光轴结构和原理</figcaption>
+<figcaption>图 2-142 模拟光轴结构和原理<sup>vii</sup></figcaption>
 </figure>
 
 &emsp;&emsp;可调节触发与快速触发；响应快；寿命长。
+
+<div style="text-align: right;color: lightgray;"><i><sup>vii</sup> 截图自 <a href="https://www.bilibili.com/video/BV1y2m6YSEfK/">【硬核科普】一个视频了解磁轴，静电容，机械轴，光轴键盘的原理_哔哩哔哩_bilibili</a>。</i></div>
 
 ---

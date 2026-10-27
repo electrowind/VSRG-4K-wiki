@@ -75,9 +75,9 @@
 
 <figure>
 <table><tr>
-<td><img src="/VSRG-4K-wiki/images/2-123.png" width="250" alt="wonder519343"></td>
+<td><img src="/VSRG-4K-wiki/images/2-123.png" width="250" alt="wonder5193"></td>
 </tr></table>
-<figcaption>图 2-123 代表玩家 wonder519343<sup>[1]</sup></figcaption>
+<figcaption>图 2-123 代表玩家 wonder5193<sup>[1]</sup></figcaption>
 </figure>
 
 <div style="text-align: right;color: lightgray;"><i><sup>[1]</sup> 他同时也使用平放发力。</i></div>

@@ -146,6 +146,7 @@ Malody 移动端因为设备延迟偏大，判定难度具有一定的补正，�
 新版本判定和老版本有区别吗？<br />
 &emsp;&emsp;答：过去 Malody 的 PC 版和移动版使用两套不同的判定体系，PC 的判定更难，移动版判定相对较宽松。但考虑到越来越多的移动设备支持外接键盘，部分 PC 也自带触屏。旧版本的设定显得多余。因此 Malody V 在所有平台上，判定默认与旧版本的移动版判定相同，玩家打出的成绩也与旧版本移动端处于同一个榜。而对喜欢挑战的玩家，所有平台均提供一个叫做“Pro Judge”的选项，开启后，判定与旧版 PC 版相同，打出成绩与旧版 PC 处于同一个榜。同时，旧 PC 榜也将改名“Pro 榜”。
 ——[Malody 公式娘](https://www.bilibili.com/opus/533171459104676628)
+<div style="text-align: right;color: lightgray;"><i><sup>iii</sup> 全段引用自 <a href="https://mzh.moegirl.org.cn/Malody">Malody - 萌娘百科</a>。</i></div>
 
 同一张谱在不同判定的难度是不同的，如对于一个 357BPM 的子弹，在OD9 判定下两个 note 均为 100acc 对于手速理想状况<sup>6</sup>的最低要求是
 <figure>
@@ -290,7 +291,7 @@ $\frac{1000}{\frac{1000}{357÷60×4}}$+37.5×2≈8.55KPS
 <sup>12</sup> <a href="/VSRG-4K-wiki/appendix/appxC/">附录 3 有争议的数据</a>中记录了 Etterna 曾经使用的结算评级。</i></div>
 
 ### 2.6 Cleartypes
-仅存在于 Etterna 和 FFR 等硬核音游，根据你在游玩时的成绩结算而形成，不会随着判定的换算而进行改变，例如在 J7 判定下打出 PFC 换算成 J4 为全彩，cleartypes 也不会因此变为 MFC。以下是各种 cleartypes 的达成条件：
+仅存在于 Etterna 和 FFR 等硬核音游，根据你在游玩时的成绩结算而形成，不会随着判定的换算而进行改变，例如在 J7 判定下打出 PFC 换算成 J4 为全彩，cleartypes 也不会因此变为 MFC。以下是各种 cleartypes 的达成条件：<sup>iv</sup>
 
 <figure>
 <table><tr>
@@ -310,6 +311,7 @@ $\frac{1000}{\frac{1000}{357÷60×4}}$+37.5×2≈8.55KPS
 &emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-09.png" style="height:17px;vertical-align:-2px;" alt="SDCB"> —— Single Digit Combo Breakers，断连次数 ≤ 9。<br />
 &emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-10.png" style="height:17px;vertical-align:-2px;" alt="Clear"> —— pass 谱面即可。<br />
 &emsp;&emsp;<img src="/VSRG-4K-wiki/images/ct-11.png" style="height:17px;vertical-align:-2px;" alt="Failed"> —— 没 pass 就是 failed。
+<div style="text-align: right;color: lightgray;"><i><sup>iv</sup> 本节引用自 <a href="https://www.bilibili.com/opus/1132917647226175490/?from=readlist">Etterna 游玩指南——判定相关以及结算界面 - 哔哩哔哩</a>。</i></div>
 
 ### 2.7 结算评级常见问题
 显示 95.00% 但是 A 评级的原因是
