@@ -128,7 +128,7 @@
 
 <figure>
 <table><tr>
-<td><img src="/VSRG-4K-wiki/images/2-119a.png" alt="osumania map analyser"></td>
+<td><img src="/VSRG-4K-wiki/images/2-119a.gif" alt="osumania map analyser"></td>
 </tr></table>
 <figcaption>图 2-119a 难度估计插件界面（编者补）</figcaption>
 </figure>
