@@ -21,3 +21,13 @@ th, td {
 table {
   border-collapse: collapse;
 }
+
+/* ===== 夜间模式（slate） ===== */
+/* 页头 logo 反相成白色，即原版白色图标 */
+[data-md-color-scheme="slate"] .md-header__button.md-logo img {
+  filter: invert(1);
+}
+/* 正文图片多为白底截图，夜间略降亮度，减少刺眼 */
+[data-md-color-scheme="slate"] .md-typeset img {
+  filter: brightness(0.92);
+}

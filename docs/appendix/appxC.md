@@ -2,7 +2,7 @@
 
 &emsp;&emsp;本附录收录的都是**存疑**或**已过时**的资料：有的数据来源不明，有的划分方式在社区里并不统一，有的则已经跟不上算法更新。放在这里是为了留个参考，**不要当作结论引用**。
 
-<div style="text-align: right;color: lightgray;"><i><sup>*</sup>防止有的人不看标题，本附录都<span style="font-weight: bold;color: black;">突出显示</span>了。（我这边建议把带有争议放前面，不然像我这种不看完就发言的。——志兔）</i></div>
+<div style="text-align: right;color: lightgray;"><i><sup>*</sup>防止有的人不看标题，本附录都<span style="font-weight: bold;">突出显示</span>了。（我这边建议把带有争议放前面，不然像我这种不看完就发言的。——志兔）</i></div>
 
 ## 1. 存疑的一种 SV2 判定区间表
 
