@@ -4,15 +4,17 @@ site_url: https://electrowind.github.io/VSRG-4K-wiki
 theme:
   language: 'zh'
   name: material
-  # 日间 / 夜间两套配色，默认日间，页头右侧的按钮可切换
+  # 日间 / 夜间两套配色，首次访问跟随系统偏好，页头右侧的按钮可切换
   palette:
-    - scheme: nthing
+    - media: "(prefers-color-scheme: light)"
+      scheme: nthing
       primary: white
       accent: green
       toggle:
         icon: material/weather-night
         name: 切换到夜间模式
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: black
       accent: green
       toggle:
